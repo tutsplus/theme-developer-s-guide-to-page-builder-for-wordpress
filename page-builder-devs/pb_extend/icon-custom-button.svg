@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Custom_Size_1);
+      }
+
+      .cls-2 {
+        fill: #54a7cc;
+        stroke: #0c6696;
+      }
+
+      .cls-3, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 6px;
+        font-family: HelveticaNeue-Bold, Helvetica Neue;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" class="cls-1">
+    <rect class="cls-6" width="32" height="32"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-2" transform="translate(0 9)">
+      <rect class="cls-4" width="32" height="14" rx="7"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="31" height="13" rx="6.5"/>
+    </g>
+    <text id="BTN" class="cls-3" transform="translate(10 18)"><tspan x="0" y="0">BTN</tspan></text>
+  </g>
+</svg>
